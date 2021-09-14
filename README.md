@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @twistedecho21
-- 👀 I’m interested in cyber security/coding/ethical hacking/linux
+- 👀 I’m interested in cyber security/coding/ethical hacking/linux/networking
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on education
 - 📫 How to reach me messages on github
